@@ -793,6 +793,11 @@ export const ngdoc: any = {
         "description": "<p>Disable specific dates</p>\n"
       },
       {
+        "name": "daysDisabled",
+        "type": "number[]",
+        "description": "<p>Disable certain days in the week</p>\n"
+      },
+      {
         "name": "isDisabled",
         "type": "boolean",
         "description": "<p>Indicates whether datepicker is enabled or not</p>\n"
@@ -877,7 +882,7 @@ export const ngdoc: any = {
       {
         "name": "daysDisabled",
         "type": "number[]",
-        "description": "<p>Disable Certain days in the week</p>\n"
+        "description": "<p>Disable certain days in the week</p>\n"
       },
       {
         "name": "isDisabled",
@@ -1005,6 +1010,11 @@ export const ngdoc: any = {
         "description": "<p>Disable specific dates</p>\n"
       },
       {
+        "name": "daysDisabled",
+        "type": "number[]",
+        "description": "<p>Disable certain days in the week</p>\n"
+      },
+      {
         "name": "isAnimated",
         "defaultValue": "false",
         "type": "boolean",
@@ -1091,6 +1101,11 @@ export const ngdoc: any = {
         "name": "datesDisabled",
         "type": "Date[]",
         "description": "<p>Disable specific dates</p>\n"
+      },
+      {
+        "name": "daysDisabled",
+        "type": "number[]",
+        "description": "<p>Disable certain days in the week</p>\n"
       },
       {
         "name": "isDisabled",
@@ -1180,6 +1195,11 @@ export const ngdoc: any = {
         "name": "datesDisabled",
         "type": "Date[]",
         "description": "<p>Disable specific dates</p>\n"
+      },
+      {
+        "name": "daysDisabled",
+        "type": "number[]",
+        "description": "<p>Disable certain days in the week</p>\n"
       },
       {
         "name": "isDisabled",
